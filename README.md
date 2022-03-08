@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi! I'm Daniel 👋
+# Hi! I'm Daniel 👋
 
-Computer Systems Engineering | Incoming Microsoft Explorer Intern Summer '22 | Microsoft Learn Student Ambassador | Love learning new things computer
+### Computer Systems Engineering 
 
 
 📝 I regularly write articles on https://www.talent-republic.tv/author/cesar-garcia-c/
