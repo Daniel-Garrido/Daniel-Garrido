@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Daniel-Garrido/Daniel-Garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm César 👋
-Un apasionado desarrollador frontend de México
-⚡ Community leader Código bits
+## Hi! I'm Daniel 👋
+
 
 📝 I regularly write articles on https://www.talent-republic.tv/author/cesar-garcia-c/
 
