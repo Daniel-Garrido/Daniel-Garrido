@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi! I'm Daniel 👋
 
-### Computer Systems Engineering 
+### Computer Systems Engineering Student
 
 
