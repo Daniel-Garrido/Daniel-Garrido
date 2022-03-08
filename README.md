@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hi! I'm Daniel 👋
 
+Computer Systems Engineering | Incoming Microsoft Explorer Intern Summer '22 | Microsoft Learn Student Ambassador | Love learning new things computer
+
 
 📝 I regularly write articles on https://www.talent-republic.tv/author/cesar-garcia-c/
 
