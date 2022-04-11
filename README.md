@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 Hello👋, my name is Daniel 👨‍🎓 and I am currently a computer systems engineering student at the Mérida Institute of Technology. At the moment I am in the 5th semester of my career. I am currently focusing on the area of ​​programming, especially in the area of ​​web development. 
 
-In my free time I dedicate myself to studying programming :computer:, exercising and I am also a content creator on various social networks, disseminating engineering and programming topics.
-
 ## Skills
 
 ## Social Media 
