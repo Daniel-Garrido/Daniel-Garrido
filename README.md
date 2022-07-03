@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello👋, my name is Daniel 👨‍🎓 and I am currently a computer systems engineering student at the Mérida Institute of Technology. At the moment I am in the 5th semester of my career. I am currently focusing on the area of ​​programming, especially in the area of ​​web development. 
+Hello👋, my name is Daniel 👨‍🎓 and I am currently a computer systems engineering student at the Mérida Institute of Technology. At the moment I am in the 6th semester of my career. I am currently focusing on the area of ​​programming, especially in the area of ​​web development. 
 
 ## Social Media 
 * [Instagram](https://www.instagram.com/daniel.garrido_/) 
