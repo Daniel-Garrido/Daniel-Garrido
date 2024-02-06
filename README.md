@@ -29,7 +29,7 @@ Me gusta la programación Y el desarrollo web.
 Actualmente estoy cursando mi Especialidad de DESARROLLO WEB Y APLICACIONES MÓVILES. 
 
 ## Contacto 
-* [Linkedin](https://www.linkedin.com/in/daniel-garrido-05138b225/)
+* [Linkedln](https://www.linkedin.com/in/daniel-garrido-05138b225/)
 
 ## Tecnologías 
 #### Frontend
