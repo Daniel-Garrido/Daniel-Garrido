@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 
 ## Sobre mí
-Soy un estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida, actualmente cursando el noveno semestre. Me apasiona el desarrollo web y las aplicaciones móviles. 
-
+<p>
+Soy un estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida, actualmente cursando el decimo semestre. Me apasiona el desarrollo web y la programación en general. 
 Estoy especializándome en Desarrollo Web y Aplicaciones Móviles, y siempre busco mejorar mis habilidades en tecnologías de frontend, backend y diseño.
+</p>
+
 
 Algunos de mis intereses incluyen:
 - Desarrollo de interfaces web optimizadas y responsivas.
-- Construcción de aplicaciones móviles modernas.
 - Innovación tecnológica y aprendizaje continuo.
 
 
@@ -52,12 +53,11 @@ Algunos de mis intereses incluyen:
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/daniel-garrido-05138b225/)
 - [GitHub](https://github.com/Daniel-Garrido)
-- Correo: tuemail@example.com
+- Correo: danielarcangelgh@gmail.com
 
 ## Portafolio
 Visita mi portafolio personal [aquí](https://daniel-garrido.github.io/) donde muestro algunos de mis proyectos más recientes, incluyendo:
-- **Sitios web interactivo** con HTML, CSS y JavaScript.
-- **Aplicaciones web** construidas usando PHP y Bootstrap.
+- **Sitios web interactivo** con HTML, CSS, Bootrsap y JavaScript.
 - Proyectos de **diseño de interfaces** con Figma.
 
 
