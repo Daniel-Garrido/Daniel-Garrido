@@ -45,6 +45,8 @@ Algunos de mis intereses incluyen:
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+
 
 ### Diseño
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
