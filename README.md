@@ -27,6 +27,7 @@ Estoy especializándome en Desarrollo Web y Aplicaciones Móviles, y siempre bus
 
 
 Algunos de mis intereses incluyen:
+- Diseño UX / UI.
 - Desarrollo de interfaces web optimizadas y responsivas.
 - Innovación tecnológica y aprendizaje continuo.
 
