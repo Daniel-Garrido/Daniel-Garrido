@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">¡Hola, soy Daniel Garrido! 👋</h1>
-<p align="center">Diseñador web y estudiante de Ingeniería en Sistemas</p>
+<p align="center">Desarrollador web y estudiante de Ingeniería en Sistemas</p>
 
 
 ## Sobre mí
 <p>
-Soy un estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida, actualmente cursando el decimo semestre. Me apasiona el desarrollo web y la programación en general. 
+Soy un estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida, actualmente cursando el último semestre. Me apasiona el desarrollo web y la programación en general. 
 Estoy especializándome en Desarrollo Web y Aplicaciones Móviles, y siempre busco mejorar mis habilidades en tecnologías de frontend, backend y diseño.
 </p>
 
@@ -57,19 +57,17 @@ Algunos de mis intereses incluyen:
 
 ### Diseño
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat)
+
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/daniel-garrido-05138b225/)
-- [GitHub](https://github.com/Daniel-Garrido)
 - Correo: danielarcangelgh@gmail.com
 
 ## Portafolio
-Visita mi portafolio personal [aquí](https://daniel-garrido.netlify.app) donde muestro algunos de mis proyectos más recientes, incluyendo:
-- **Sitios web interactivo** con HTML, CSS, Bootrsap y JavaScript.
-- Proyectos de **diseño de interfaces** con Figma.
+Visita mi portafolio personal [aquí](https://daniel-garrido.netlify.app)
 
 
 ## GitHub Stats
